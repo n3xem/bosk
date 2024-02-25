@@ -1,0 +1,7 @@
+*.csv
+*.json
+*.pub
+id_*
+.DS_Store
+
+
